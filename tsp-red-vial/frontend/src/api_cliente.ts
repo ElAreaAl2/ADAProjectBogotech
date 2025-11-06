@@ -1,0 +1,2 @@
+// Llamados fetch a FastAPI
+
