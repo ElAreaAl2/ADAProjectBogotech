@@ -1270,6 +1270,7 @@ Santiago Mesa
 Juliana Lugo
 Juan Diego Arias
 Pablo Gonzalez
+
 **Proyecto Final - Análisis de Algoritmos**  
 Universidad: *Pontificia Universidad Javeriana*  
 Curso: Análisis de Algoritmos  
