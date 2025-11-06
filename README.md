@@ -1265,13 +1265,16 @@ Este proyecto integra:
 
 ---
 
-## 👥 Autores
-
+##  Autores
+Santiago Mesa 
+Juliana Lugo
+Juan Diego Arias
+Pablo Gonzalez
 **Proyecto Final - Análisis de Algoritmos**  
-Universidad: *[Tu Universidad]*  
+Universidad: *Pontificia Universidad Javeriana*  
 Curso: Análisis de Algoritmos  
 Instructor: Andrés Oswaldo Calderón Romero, Ph.D.  
-Fecha: Noviembre 2025
+Fecha:  6 de Noviembre 2025
 
 ---
 
